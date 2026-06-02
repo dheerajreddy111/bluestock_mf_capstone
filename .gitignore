@@ -1,0 +1,49 @@
+# ===========================
+# Virtual Environments
+# ===========================
+.venv/
+venv/
+env/
+ENV/
+
+# ===========================
+# Python Cache Files
+# ===========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+
+# ===========================
+# Jupyter Notebook
+# ===========================
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# ===========================
+# SQLite Databases
+# ===========================
+*.db
+*.sqlite
+*.sqlite3
+
+# ===========================
+# macOS System Files
+# ===========================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ===========================
+# IDE / Editor Files
+# ===========================
+.vscode/
+.idea/
+
+# ===========================
+# Environment Variables
+# ===========================
+.env
+.env.local

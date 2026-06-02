@@ -1,0 +1,7 @@
+scheme_code,filename,scheme_name,fund_house,records,start_date,end_date,status,error
+125497,hdfc_top_100_nav.csv,SBI Small Cap Fund - Direct Plan - Growth,SBI Mutual Fund,3091,2013-11-18,2026-06-01,SUCCESS,
+119551,sbi_bluechip_nav.csv,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Aditya Birla Sun Life Mutual Fund,3236,2013-01-02,2026-06-01,SUCCESS,
+120503,icici_bluechip_nav.csv,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Axis Mutual Fund,3307,2013-01-02,2026-06-01,SUCCESS,
+118632,nippon_large_cap_nav.csv,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Nippon India Mutual Fund,3298,2013-01-02,2026-06-01,SUCCESS,
+119092,axis_bluechip_nav.csv,HDFC Money Market Fund - Growth Option - Direct Plan,HDFC Mutual Fund,3565,2012-12-31,2026-06-01,SUCCESS,
+120841,kotak_bluechip_nav.csv,quant Mid Cap Fund - Growth Option - Direct Plan,quant Mutual Fund,3301,2013-01-07,2026-06-01,SUCCESS,
