@@ -1,0 +1,8 @@
+table,row_count
+dim_fund,40
+dim_date,1608
+fact_nav,64320
+fact_transactions,32778
+fact_performance,40
+fact_aum,90
+fact_benchmark,8050

@@ -1,0 +1,8 @@
+metric,value
+original_rows,32778
+duplicates_removed,0
+invalid_amounts,0
+invalid_transaction_types,0
+invalid_kyc_statuses,0
+missing_values,0
+cleaned_rows,32778

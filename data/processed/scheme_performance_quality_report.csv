@@ -1,0 +1,8 @@
+metric,value
+original_rows,40
+duplicates_removed,0
+invalid_return_values,0
+return_anomalies,0
+expense_ratio_anomalies,0
+missing_values,0
+cleaned_rows,40

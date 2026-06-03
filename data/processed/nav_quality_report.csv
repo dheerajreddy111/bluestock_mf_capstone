@@ -1,0 +1,6 @@
+metric,value
+original_row_count,46000
+cleaned_row_count,64320
+duplicate_rows_removed,0
+invalid_nav_rows_removed,0
+dates_added_forward_fill,18320

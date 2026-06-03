@@ -1,0 +1,12 @@
+metric,value
+total_rows,46000
+total_columns,3
+duplicate_rows,0
+unique_amfi_codes,40
+missing_amfi_code,0
+missing_date,0
+missing_nav,0
+min_nav,26.1366
+max_nav,4268.5497
+earliest_date,2022-01-03 00:00:00
+latest_date,2026-05-29 00:00:00
