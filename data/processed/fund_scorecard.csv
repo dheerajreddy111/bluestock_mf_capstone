@@ -1,0 +1,41 @@
+amfi_code,scheme_name,category,return_rank,sharpe_rank,alpha_rank,expense_rank,drawdown_rank,fund_score,overall_rank
+148567,Mirae Asset Large Cap Fund - Regular - Growth,Equity,2,1,7,23,8,85.9,1
+120505,ICICI Pru Midcap Fund - Regular - Growth,Equity,5,4,3,15,25,82.44,2
+120843,Kotak Flexicap Fund - Regular - Growth,Equity,7,2,5,22,13,81.54,3
+100033,HDFC Mid-Cap Opportunities Fund - Regular - Growth,Equity,4,7,6,16,20,80.64,4
+120504,ICICI Pru Bluechip Fund - Direct - Growth,Equity,3,11,13,12,12,78.85,5
+119094,Axis Midcap Fund - Regular - Growth,Equity,1,9,9,17,28,77.69,6
+119551,SBI Bluechip Fund - Regular Plan - Growth,Equity,6,5,10,30,17,73.72,7
+148569,Mirae Asset Tax Saver Fund - Regular - Growth,Equity,8,3,4,37,21,72.82,8
+119598,SBI Small Cap Fund - Regular Plan - Growth,Equity,12,13,1,21,36,67.18,9
+101206,ABSL Frontline Equity Fund - Regular - Growth,Equity,9,10,12,36,9,66.92,10
+149324,DSP Small Cap Fund - Regular - Growth,Equity,10,12,2,27,37,66.28,11
+118632,Nippon India Large Cap Fund - Regular - Growth,Equity,14,8,11,24,23,65.9,12
+149323,DSP Midcap Fund - Regular - Growth,Equity,11,6,8,38,22,65.9,13
+119552,SBI Bluechip Fund - Direct Plan - Growth,Equity,23,14,15,4,11,63.85,14
+125497,HDFC Top 100 Fund - Direct Plan - Growth,Equity,19,18,16,14,18,58.21,15
+118633,Nippon India Large Cap Fund - Direct - Growth,Equity,15,21,22,6,26,57.31,16
+118635,Nippon India ETF Nifty 50 BeES,Equity,17,20,23,13,10,57.31,17
+102885,UTI Nifty 50 Index Fund - Regular - Growth,Equity,18,16,19,34,7,53.85,18
+120503,ICICI Pru Bluechip Fund - Regular - Growth,Equity,25,17,17,20,14,52.44,19
+148568,Mirae Asset Emerging Bluechip Fund - Regular - Growth,Equity,24,15,14,26,19,52.44,20
+120506,ICICI Pru Value Discovery Fund - Regular - Growth,Equity,20,19,20,19,27,50.51,21
+119093,Axis Bluechip Fund - Direct - Growth,Equity,16,28,28,8,31,46.92,22
+102887,UTI Flexi Cap Fund - Regular - Growth,Equity,13,22,21,40,30,44.62,23
+149322,DSP Top 100 Equity Fund - Regular - Growth,Equity,21,25,24,31,16,42.05,24
+125498,HDFC Mid-Cap Opportunities Fund - Direct - Growth,Equity,26,26,26,10,29,41.28,25
+118634,Nippon India Small Cap Fund - Regular - Growth,Equity,27,23,18,28,32,38.85,26
+120841,Kotak Bluechip Fund - Regular - Growth,Equity,22,24,25,35,24,37.82,27
+120507,ICICI Pru Liquid Fund - Regular - Growth,Debt,29,38,31,7,1,37.05,28
+120844,Kotak Liquid Fund - Regular - Growth,Debt,30,39,32,3,2,36.41,29
+118636,Nippon India Gilt Securities Fund - Regular - Growth,Debt,33,36,35,1,6,34.23,30
+119120,SBI Magnum Gilt Fund - Regular Plan - Growth,Debt,32,35,34,9,5,33.33,31
+100025,HDFC Short Term Debt Fund - Regular - Growth,Debt,34,37,38,2,4,31.41,32
+101208,ABSL Liquid Fund - Regular - Growth,Debt,31,40,33,11,3,31.15,33
+120842,Kotak Emerging Equity Fund - Regular - Growth,Equity,28,29,29,33,33,26.41,34
+119599,SBI Small Cap Fund - Direct Plan - Growth,Equity,38,31,36,5,40,22.82,35
+119092,Axis Bluechip Fund - Regular - Growth,Equity,36,30,30,39,15,21.41,36
+101207,ABSL Small Cap Fund - Regular - Growth,Equity,39,27,27,29,38,20.51,37
+119095,Axis Small Cap Fund - Regular - Growth,Equity,40,32,37,18,39,15.38,38
+102886,UTI Mid Cap Fund - Regular - Growth,Equity,37,33,40,25,35,13.85,39
+100016,HDFC Top 100 Fund - Regular Plan - Growth,Equity,35,34,39,32,34,12.82,40
