@@ -1,0 +1,3 @@
+cohort_year,investor_count,total_transactions,inflow_transactions,total_invested,average_transaction_amount,total_redeemed,equity_txn_count,debt_txn_count,equity_pct,debt_pct,top_category
+2024,4803,32499,27578,2258062304.0,81879.11755747335,1233062883.0,27621,4878,84.99030739407367,15.009692605926336,Equity
+2025,197,279,233,18992635.0,81513.45493562231,11462608.0,232,47,83.15412186379929,16.845878136200717,Equity

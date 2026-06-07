@@ -1,0 +1,10 @@
+risk_profile,recommendation_rank,scheme_name,category,sharpe_ratio,sub_category,amfi_code
+LOW RISK,1,SBI Magnum Gilt Fund - Regular Plan - Growth,Debt,-0.7430986305648737,Gilt,119120
+LOW RISK,2,Nippon India Gilt Securities Fund - Regular - Growth,Debt,-0.8505789759662646,Gilt,118636
+LOW RISK,3,HDFC Short Term Debt Fund - Regular - Growth,Debt,-1.0399413574428047,Short Duration,100025
+MODERATE RISK,1,Mirae Asset Large Cap Fund - Regular - Growth,Equity,1.0682238272314664,Large Cap,148567
+MODERATE RISK,2,Kotak Flexicap Fund - Regular - Growth,Equity,0.9655606517440112,Flexi Cap,120843
+MODERATE RISK,3,SBI Bluechip Fund - Regular Plan - Growth,Equity,0.8609773262277725,Large Cap,119551
+HIGH RISK,1,ICICI Pru Midcap Fund - Regular - Growth,Equity,0.8832556184698825,Mid Cap,120505
+HIGH RISK,2,DSP Midcap Fund - Regular - Growth,Equity,0.8328852279505924,Mid Cap,149323
+HIGH RISK,3,HDFC Mid-Cap Opportunities Fund - Regular - Growth,Equity,0.8082678003905596,Mid Cap,100033
